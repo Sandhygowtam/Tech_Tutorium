@@ -1,2 +1,2 @@
 # Tech_Tutorium
-A web learning platform
+A web  based learning platform
